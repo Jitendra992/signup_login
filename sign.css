@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;;
+}
+h1{
+    text-decoration: none;
+}
+body{
+   background-color: beige;
+}
+.wrap{
+   
+    width: 400px;
+    margin: 230px;
+    padding: 100px;
+    background-color: #fff;
+border-radius: 20px;
+text-align: center;
+
+}
+
+form input{
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #fff;
+    outline: none;
+    background: lightgray;
+    border-radius: 10px;
+}
+.but{
+    width: 150px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: #fff;
+    background:rgb(137, 105, 192);
+}
+.but:hover{
+    background: rgb(77, 84, 227);
+    color: #fff;
+}
+.but2{
+    width: 150px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+  outline: none;
+    background-color: #fff;
+    border: 1px solid blueviolet;
+    
+}
+.but2:hover{
+ background-color: blue;
+ color: white;
+}
